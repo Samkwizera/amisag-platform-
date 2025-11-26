@@ -88,3 +88,4 @@ If you prefer to use SMTP instead of Resend, you can modify `src/lib/email.ts` t
 - [ ] Verify email delivery
 - [ ] Customize email templates if needed
 
+
