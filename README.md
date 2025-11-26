@@ -15,8 +15,8 @@ A modern, AI-powered virtual networking platform built with Next.js, designed to
 ### 1. Clone and Install
 
 ```bash
-git clone <your-repository-url>
-cd amisag-ai-virtual-networking
+git clone https://github.com/Samkwizera/amisag-platform-.git
+cd amisag-platform-
 npm install
 ```
 
@@ -168,7 +168,7 @@ npm run lint     # Run linter
 ## 📄 License
 
 This project is private and proprietary.
-
+    by Samuel Ihimbazwe 
 ---
 
 **Happy Networking! 🚀**
